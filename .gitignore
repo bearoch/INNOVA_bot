@@ -1,0 +1,10 @@
+.env
+.DS_Store
+.idea/
+ToDO.txt
+__pycache__/
+botcelery/
+dump.rdb
+employee.xlsx
+errors/
+external_services/
